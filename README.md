@@ -22,11 +22,11 @@ A flight represents a scheduled journey between two cities with a defined depart
 
 The Entity Relationship Diagram illustrates these relationships and cardinalities. The Use Case Diagram shows how passengers and administrators interact with the system.
 
-   ##Use Case Diagram
+   ## Use Case Diagram
 
  ![Use Case Diagram](https://github.com/irene-reyn/Airline-Reservation-System----SQL/blob/Google-playstore-apps-analysis/Use%20case%20diagram.png)
   
-  ##ERD 
+  ## ERD 
  
  ![ERD](https://github.com/irene-reyn/Airline-Reservation-System----SQL/blob/Google-playstore-apps-analysis/ERD.png)
  
